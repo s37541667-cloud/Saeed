@@ -1,0 +1,6 @@
+{
+  "name": "مهرجان الألعاب",
+  "description": "لعبة جماعية أونلاين ممتعة من 1 إلى 6 لاعبين تضم 5 ألعاب تفاعلية باللغة العربية مع غرف فورية ورمز QR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
